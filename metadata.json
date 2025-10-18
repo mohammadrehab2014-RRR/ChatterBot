@@ -1,0 +1,5 @@
+{
+  "name": "ChatterBot",
+  "description": "An AI-powered educational assistant that helps you solve problems in Math, Science, English, Hindi, and more. Ask questions with text or by uploading an image.",
+  "requestFramePermissions": []
+}
